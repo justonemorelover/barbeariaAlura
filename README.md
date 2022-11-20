@@ -3,9 +3,9 @@
 Conteúdos abordados
 
 Uma introdução ao HTML e suas tags;
-Como definir o título e os parágrafos de um texto utilizando as tags <h1> e <p>, respectivamente;
-Como dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag <strong>;
-Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag <em>;
+Como definir o título e os parágrafos de um texto utilizando as tags "h1" e "p", respectivamente;
+Como dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag "strong";
+Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag "em";
 
 Definição da estrutura básica do HTML. Com a tag DOCTYPE, definimos qual versão do HTML estamos utilizando;
 A tag "html", que marca o conteúdo a ser renderizado no navegador;
